@@ -1,4 +1,6 @@
 a = 3
 b = 6
 
-print(a + b)
+c = 3
+
+print(a + b + c)
